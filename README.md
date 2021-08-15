@@ -1,4 +1,12 @@
-### 👋 Hi, I am Ritesh Shrivastava 
+👋 Hi, I am Ritesh Shrivastava
+
+🔭 I’m currently working on Data Science
+
+🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Hadoop, Artificial intellegence and Deep learning
+
+👯 I’m looking to collaborate on Data Science concepts
+
+📫 U can reach me through mail  : @ritesh.opshrivastava@gmail.com
 
 <!--
 **RiteshopShrivastava/RiteshopShrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
