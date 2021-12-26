@@ -8,6 +8,9 @@
 
 📫 U can reach me through mail  : @ritesh.opshrivastava@gmail.com
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ritesh-opshrivastava" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ritesh-opshrivastava?trk=profile-badge">Ritesh Shrivastava</a></div>
+              
+
 <!--
 **RiteshopShrivastava/RiteshopShrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
