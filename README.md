@@ -6,9 +6,9 @@
 
 👯 I’m looking to collaborate on Data Science concepts
 
-📫 U can reach me through mail  : @ritesh.opshrivastava@gmail.com
+📫 U can reach me through mail  : @ritesh.opshrivastava@gmail.com, +919425009791
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ritesh-opshrivastava" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ritesh-opshrivastava?trk=profile-badge">Ritesh Shrivastava</a></div>
+Linkedin Profile - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ritesh-opshrivastava" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ritesh-opshrivastava?trk=profile-badge">Ritesh Shrivastava</a></div>
               
 
 <!--
