@@ -1,4 +1,5 @@
-Hi, I am Ritesh Shrivastava, Double Masters in Computer Application & Computer SCience. Having 12+ years of diversified experience. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience of working on projects in similar areas.
+Hi, I am Ritesh Shrivastava,
+A Double Masters in Computer Application & Computer Science. Having 12+ years of diversified experience. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience of working on projects in similar areas.
 
 🔭 I’m currently working on Data Science
 
