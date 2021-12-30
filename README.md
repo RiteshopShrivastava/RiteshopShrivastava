@@ -3,7 +3,7 @@ A double Masters in Computer Application & Computer Science. Having 12+ years of
 
 🔭 I’m currently working on Data Science
 
-🌱 Having working knowledge of Python, Tableau, R, SQL, Azure, Hadoop, Artificial intellegence.
+🌱 Having working knowledge of Python, Tableau, R, SQL, Azure, Hadoop, Artificial intellegence,Excel, Operation Research.
 
 👯 I’m looking to collaborate on Data Science concepts
 
