@@ -1,9 +1,9 @@
 Hi, I am Ritesh Shrivastava,
 A double Masters in Computer Application & Computer Science. Having 12+ years of diversified experience. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience of working on projects in similar areas.
 
-🔭 I’m currently working on Data Science
+🔭 I’m currently working as Artificial Intelligence Developer for M.P. Government(Client side).
 
-🌱 Having working knowledge of Python, Tableau, R, SQL, Azure, Hadoop, Artificial intellegence,Excel, Operation Research.
+🌱 Having working knowledge of Python, Tableau, R, SQL, Hadoop, Artificial intellegence,Excel, Operation Research.
 
 👯 I’m looking to collaborate on Data Science concepts
 
