@@ -3,7 +3,7 @@ A double Masters in Computer Application & Computer Science. Having 13+ years of
 
 🔭 I’m currently working as Artificial Intelligence Developer for M.P. Government(Client side).
 
-🌱 Having working knowledge of Python, Tableau, R, SQL, Hadoop, Artificial intellegence,Excel, Operation Research.
+🌱 Having working knowledge of Machine Learning,Face Rrecognition,OCR,RASA framework,Voicebot,Voice over IP (VOIP),Python,Oracle, PosgreSQL,Excel, Operation Research etc..
 
 👯 I’m looking to collaborate on Data Science concepts.
 
